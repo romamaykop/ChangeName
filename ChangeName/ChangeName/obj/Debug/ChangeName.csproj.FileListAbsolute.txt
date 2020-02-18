@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ChangeName\ChangeName\bin\Debug\ChangeName.exe.config
+C:\Users\user\source\repos\ChangeName\ChangeName\bin\Debug\ChangeName.exe
+C:\Users\user\source\repos\ChangeName\ChangeName\bin\Debug\ChangeName.pdb
+C:\Users\user\source\repos\ChangeName\ChangeName\obj\Debug\ChangeName.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ChangeName\ChangeName\obj\Debug\ChangeName.exe
+C:\Users\user\source\repos\ChangeName\ChangeName\obj\Debug\ChangeName.pdb
